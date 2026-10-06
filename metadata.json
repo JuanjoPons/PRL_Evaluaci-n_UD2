@@ -1,0 +1,6 @@
+{
+  "name": "PRL Adventure - Prevención de Riesgos Laborales",
+  "description": "Plataforma educativa gamificada estilo arcade retro para la evaluación de competencias en Prevención de Riesgos Laborales en Formación Profesional.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
